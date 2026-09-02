@@ -1,6 +1,6 @@
 
 # Customer Churn Analysis & Customer Intelligence
-Customer churn analysis using SQL, Python, Pandas, NumPy, Matplotlib and Seaborn.
+
 ## 📌 Project Overview
 
 This project focuses on analyzing customer churn to understand which customers are leaving, why they are leaving, and when churn risk becomes significant.
